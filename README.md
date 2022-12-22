@@ -3,8 +3,8 @@
 
 Uma Lande page desenvolvida para uma loja de café famosa chamada Starbucks.
 
-Linguagens útilizadas no desenvolvimento:
-#HTML 
-#CSS 
-#JavaScript
+Linguagens útilizadas no desenvolvimento: <br>
+#HTML <br>
+#CSS <br>
+#JavaScript <br>
 
